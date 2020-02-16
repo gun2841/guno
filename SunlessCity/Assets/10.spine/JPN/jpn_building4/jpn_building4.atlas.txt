@@ -1,0 +1,76 @@
+
+jpn_building4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 342, 293
+  size: 96, 386
+  orig: 96, 386
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 730, 221
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 900, 384
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 342, 183
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 9
+  size: 184, 32
+  orig: 184, 32
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 730, 228
+  size: 168, 161
+  orig: 168, 161
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 342, 195
+  size: 96, 386
+  orig: 96, 386
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 43
+  size: 168, 346
+  orig: 168, 346
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 172, 43
+  size: 168, 346
+  orig: 168, 346
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

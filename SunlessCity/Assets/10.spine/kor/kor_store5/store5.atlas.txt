@@ -1,0 +1,83 @@
+
+store5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 59
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 123, 52
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 188, 108
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 134, 76
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 57, 43
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 2
+  size: 49, 7
+  orig: 49, 7
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 57, 30
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 68, 59
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 11
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 134, 98
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 134, 69
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1

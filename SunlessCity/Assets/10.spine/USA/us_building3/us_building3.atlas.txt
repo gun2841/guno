@@ -1,0 +1,55 @@
+
+us_building3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 60
+  size: 64, 152
+  orig: 64, 152
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 310, 61
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 127, 2
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 156, 60
+  size: 64, 152
+  orig: 64, 152
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 56, 123
+  orig: 56, 123
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 310, 68
+  size: 56, 123
+  orig: 56, 123
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 435, 119
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

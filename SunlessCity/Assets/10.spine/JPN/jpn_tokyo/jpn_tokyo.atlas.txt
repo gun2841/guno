@@ -1,0 +1,104 @@
+
+jpn_tokyo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 392, 152
+  size: 128, 358
+  orig: 128, 358
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 132, 2
+  size: 128, 508
+  orig: 128, 508
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 666, 476
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 262, 3
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 392, 123
+  size: 122, 27
+  orig: 122, 27
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 666, 483
+  size: 122, 27
+  orig: 122, 27
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 522, 152
+  size: 128, 358
+  orig: 128, 358
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 652, 153
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 790, 500
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 516, 121
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 392, 94
+  size: 122, 27
+  orig: 122, 27
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 652, 201
+  size: 12, 309
+  orig: 12, 309
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 262, 7
+  size: 128, 503
+  orig: 128, 503
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 128, 508
+  orig: 128, 508
+  offset: 0, 0
+  index: -1

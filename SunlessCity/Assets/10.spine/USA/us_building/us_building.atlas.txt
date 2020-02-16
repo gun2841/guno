@@ -1,0 +1,90 @@
+
+us_building.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 108
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 17, 2
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 9
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 28
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 108
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 262, 108
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 262, 120
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 117, 89
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 301, 120
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 262, 139
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 382, 139
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 2
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+jpn_takoyaki.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 134, 10
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 196, 10
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 258, 16
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 68, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 379, 27
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 438, 51
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 379, 16
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 438, 40
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 320, 16
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 134, 3
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 379, 38
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1

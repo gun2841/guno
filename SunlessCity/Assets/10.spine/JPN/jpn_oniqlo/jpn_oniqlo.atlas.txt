@@ -1,0 +1,76 @@
+
+jpn_oniqlo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 25
+  size: 128, 97
+  orig: 128, 97
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 15
+  size: 128, 3
+  orig: 128, 3
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 2
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 262, 34
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 286, 42
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 25
+  size: 128, 97
+  orig: 128, 97
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 387, 59
+  size: 123, 24
+  orig: 123, 24
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 262, 58
+  size: 123, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 387, 85
+  size: 123, 37
+  orig: 123, 37
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 20
+  size: 128, 3
+  orig: 128, 3
+  offset: 0, 0
+  index: -1

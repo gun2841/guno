@@ -1,0 +1,202 @@
+
+sf_tower2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 365
+  size: 128, 520
+  orig: 128, 520
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 22
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 100, 222
+  size: 102, 11
+  orig: 102, 11
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 579, 244
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 691, 392
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 613, 316
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 746, 431
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 100, 89
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 793, 486
+  size: 7, 43
+  orig: 7, 43
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 204, 226
+  size: 7, 43
+  orig: 7, 43
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2, 2
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 524, 314
+  size: 87, 179
+  orig: 87, 179
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 524, 239
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 691, 419
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 691, 462
+  size: 86, 14
+  orig: 86, 14
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 84, 42
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 779, 467
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 2, 235
+  size: 128, 520
+  orig: 128, 520
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 691, 478
+  size: 100, 15
+  orig: 100, 15
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 91, 54
+  size: 7, 179
+  orig: 7, 179
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 613, 328
+  size: 76, 165
+  orig: 76, 165
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 54
+  size: 87, 179
+  orig: 87, 179
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 606, 307
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 524, 235
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 100, 168
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 100, 120
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 524, 282
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 149, 174
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1

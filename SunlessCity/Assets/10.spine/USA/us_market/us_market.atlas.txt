@@ -1,0 +1,62 @@
+
+us_market.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 47
+  size: 256, 75
+  orig: 256, 75
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 243, 29
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 759, 111
+  size: 143, 11
+  orig: 143, 11
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 2
+  size: 143, 11
+  orig: 143, 11
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 260, 47
+  size: 256, 75
+  orig: 256, 75
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 518, 73
+  size: 239, 49
+  orig: 239, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 15
+  size: 239, 30
+  orig: 239, 30
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 518, 60
+  size: 239, 11
+  orig: 239, 11
+  offset: 0, 0
+  index: -1

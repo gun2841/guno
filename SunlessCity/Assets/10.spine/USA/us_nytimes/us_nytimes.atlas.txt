@@ -1,0 +1,97 @@
+
+us_nytimes.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 398
+  size: 96, 540
+  orig: 96, 540
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 410, 287
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 28
+  size: 84, 444
+  orig: 84, 444
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 544, 224
+  size: 84, 444
+  orig: 84, 444
+  offset: 0, 0
+  index: -1
+13 (2)
+  rotate: true
+  xy: 967, 346
+  size: 148, 24
+  orig: 148, 24
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 2
+  size: 148, 24
+  orig: 148, 24
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 781, 81
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 781, 93
+  size: 168, 129
+  orig: 168, 129
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 300
+  size: 96, 540
+  orig: 96, 540
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 448, 38
+  size: 184, 331
+  orig: 184, 331
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 544, 310
+  size: 184, 421
+  orig: 184, 421
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 114
+  size: 184, 406
+  orig: 184, 406
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 448, 32
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1

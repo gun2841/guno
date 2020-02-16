@@ -1,0 +1,48 @@
+
+hanok2.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 18
+  size: 128, 44
+  orig: 128, 44
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 262, 52
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 18
+  size: 128, 44
+  orig: 128, 44
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 8
+  size: 68, 8
+  orig: 68, 8
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 72, 11
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

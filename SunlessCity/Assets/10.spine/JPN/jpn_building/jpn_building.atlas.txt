@@ -1,0 +1,83 @@
+
+jpn_building.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 72
+  size: 128, 182
+  orig: 128, 182
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 160, 59
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 2
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 102, 39
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 262, 87
+  size: 55, 11
+  orig: 55, 11
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 500, 244
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 33
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 72
+  size: 128, 182
+  orig: 128, 182
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 262, 100
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 381, 100
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 102, 35
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1

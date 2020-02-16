@@ -1,0 +1,111 @@
+
+sf_plaza.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 57
+  size: 192, 69
+  orig: 192, 69
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 390, 90
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 390, 69
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 491, 104
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 196, 57
+  size: 192, 69
+  orig: 192, 69
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 7
+  size: 192, 23
+  orig: 192, 23
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 196, 19
+  size: 176, 17
+  orig: 176, 17
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 196, 38
+  size: 186, 17
+  orig: 186, 17
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 390, 116
+  size: 112, 10
+  orig: 112, 10
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 32
+  size: 192, 23
+  orig: 192, 23
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 229, 8
+  size: 50, 9
+  orig: 50, 9
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 384, 31
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 446, 93
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 390, 54
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 196, 2
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1

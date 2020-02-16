@@ -1,0 +1,83 @@
+
+studyroom.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 47
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 45, 22
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 247, 121
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 29
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 134, 64
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 66, 37
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 2
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 68, 47
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 134, 74
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 191, 74
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 134, 60
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+building.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 14
+  size: 128, 240
+  orig: 128, 240
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 14, 7
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 368, 41
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 626, 249
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+13_4
+  rotate: false
+  xy: 262, 25
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+13_5
+  rotate: false
+  xy: 262, 2
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 522, 61
+  size: 102, 193
+  orig: 102, 193
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 14
+  size: 128, 240
+  orig: 128, 240
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 262, 48
+  size: 128, 206
+  orig: 128, 206
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 392, 48
+  size: 128, 206
+  orig: 128, 206
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 522, 54
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1

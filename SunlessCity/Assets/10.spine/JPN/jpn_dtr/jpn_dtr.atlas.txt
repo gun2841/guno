@@ -1,0 +1,146 @@
+
+jpn_dtr.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 41
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 314, 53
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 212, 27
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 212, 13
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 360, 57
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 395, 101
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 439, 101
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 80, 14
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 124, 14
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 168, 14
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 342, 94
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 41
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 441, 88
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 262, 67
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 395, 87
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 2, 15
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 483, 115
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 342, 67
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 262, 47
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1

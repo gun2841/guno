@@ -1,0 +1,104 @@
+
+building2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 24
+  size: 192, 230
+  orig: 192, 230
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 20, 2
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 24, 2
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 11, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 9
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 390, 49
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 390, 37
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 944, 241
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 584, 90
+  size: 47, 10
+  orig: 47, 10
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 778, 103
+  size: 164, 151
+  orig: 164, 151
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 196, 24
+  size: 192, 230
+  orig: 192, 230
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 390, 88
+  size: 192, 166
+  orig: 192, 166
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 584, 102
+  size: 192, 152
+  orig: 192, 152
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1

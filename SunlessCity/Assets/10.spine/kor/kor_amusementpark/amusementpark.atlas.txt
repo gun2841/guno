@@ -1,0 +1,125 @@
+
+amusementpark.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 201
+  size: 320, 264
+  orig: 320, 264
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 604, 189
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 324, 201
+  size: 320, 264
+  orig: 320, 264
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 395, 97
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 42
+  size: 292, 157
+  orig: 292, 157
+  offset: 0, 0
+  index: -1
+v2_1
+  rotate: false
+  xy: 646, 432
+  size: 306, 33
+  orig: 306, 33
+  offset: 0, 0
+  index: -1
+v2_2
+  rotate: false
+  xy: 296, 166
+  size: 306, 33
+  orig: 306, 33
+  offset: 0, 0
+  index: -1
+v2_7
+  rotate: false
+  xy: 2, 2
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+v2_8
+  rotate: false
+  xy: 296, 60
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+v2_9
+  rotate: false
+  xy: 646, 300
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+v3_1
+  rotate: true
+  xy: 2, 16
+  size: 24, 244
+  orig: 24, 244
+  offset: 0, 0
+  index: -1
+v3_10
+  rotate: false
+  xy: 990, 439
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+v3_15
+  rotate: false
+  xy: 296, 74
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+v3_16
+  rotate: false
+  xy: 646, 314
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+v3_2
+  rotate: true
+  xy: 646, 406
+  size: 24, 244
+  orig: 24, 244
+  offset: 0, 0
+  index: -1
+v3_7
+  rotate: true
+  xy: 954, 441
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+v3_9
+  rotate: false
+  xy: 990, 453
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1

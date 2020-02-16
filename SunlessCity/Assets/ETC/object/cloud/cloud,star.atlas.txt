@@ -1,0 +1,62 @@
+
+cloud,star.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_1
+  rotate: false
+  xy: 273, 26
+  size: 302, 56
+  orig: 302, 56
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 2, 40
+  size: 269, 51
+  orig: 269, 51
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: false
+  xy: 577, 2
+  size: 230, 73
+  orig: 230, 73
+  offset: 0, 0
+  index: -1
+cloud_4
+  rotate: false
+  xy: 10, 93
+  size: 299, 28
+  orig: 299, 28
+  offset: 0, 0
+  index: -1
+cloud_5
+  rotate: false
+  xy: 578, 77
+  size: 265, 44
+  orig: 265, 44
+  offset: 0, 0
+  index: -1
+cloud_6
+  rotate: false
+  xy: 311, 84
+  size: 265, 37
+  orig: 265, 37
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 120
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 5, 118
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
