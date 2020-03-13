@@ -1,9 +1,4 @@
 
-### 개인 프로젝트
-    2020.03.02 ~
-    환경 : pycharm + anaconda + tensorflow
-    
-
 ### HCI 프로젝트
     인간컴퓨터상호작용프로그래밍 교과목 최종 프로젝트
     환경 : Unity3D Kinect
