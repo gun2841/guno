@@ -1,9 +1,9 @@
 def solution(n):
+    temp = ['1','2','4']
     answer = ''
     while(n):
-        answer+=str(n%3)
+        n-=1
+        answer+=str(temp[n%3])
         n=n//3
-    return answer[::-1]
-
-s = int(input())
-print(solution(s))
+    answer = answer[::-1]
+    return answer
