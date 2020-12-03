@@ -1,0 +1,86 @@
+T = int(input())
+tank = ['<','>','^','v']
+for test_case in range(1, T + 1):
+    arr = []
+    H,W = map(int, input().split())
+    x,y = 0,0
+    for i in range(H):
+        s = input()
+        arr.append(list(s))
+        for j in tank:
+            temp = s.find(j)
+            if temp >= 0:
+                x,y = i,temp
+
+    N = input() # 필요없음
+    cmd = input() # 명령
+
+    for i in cmd:
+        if i == 'U':
+            arr[x][y] = '^'
+            if x > 0:
+                if arr[x-1][y] == '.':
+                    arr[x][y]= '.'
+                    x-=1
+                    arr[x][y]= '^'
+
+        if i == 'D':
+            arr[x][y] = 'v'
+            if x < H-1:
+                if arr[x+1][y] == '.':
+                    arr[x][y] = '.'
+                    x+=1
+                    arr[x][y] = 'v'
+
+        if i == 'L':
+            arr[x][y] = '<'
+            if y > 0:
+                if arr[x][y-1] == '.':
+                    arr[x][y] = '.'
+                    y-=1
+                    arr[x][y] = '<'
+
+        if i == 'R':
+            arr[x][y] = '>'
+            if y < W-1:
+                if arr[x][y+1] == '.':
+                    arr[x][y] = '.'
+                    y+=1
+                    arr[x][y] = '>'
+
+        if i == 'S':
+            if arr[x][y] == '<':
+                for j in range(y,-1,-1):
+                    if arr[x][j] == '#':
+                        break
+                    if arr[x][j] == '*':
+                        arr[x][j] = '.'
+                        break
+
+            if arr[x][y] == '>':
+                for j in range(y,W):
+                    if arr[x][j] == '#':
+                        break
+                    if arr[x][j] == '*':
+                        arr[x][j] = '.'
+                        break
+
+            if arr[x][y] == '^':
+                for j in range(x,-1,-1):
+                    if arr[j][y] == '#':
+                        break;
+                    if arr[j][y] == '*':
+                        arr[j][y] = '.'
+                        break;
+
+            if arr[x][y] == 'v':
+                for j in range(x,H):
+                    if arr[j][y] == '#':
+                        break;
+                    if arr[j][y] == '*':
+                        arr[j][y] = '.'
+                        break;
+
+    print("#%d"% test_case, end=" ")
+    for i in range(len(arr)):
+        print(''.join(arr[i]))
